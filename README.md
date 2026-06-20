@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🏻
 
 My name is Harshith Kethavath. I'm an MS Computer Science student at the University of Georgia, currently an Applied ML Engineer at [Lab for Geoinformatics and AI Modeling](https://github.com/uga-gaim). My current work is **SignsOfExtremes**, where I use computer vision for extreme weather event prediction.
 
