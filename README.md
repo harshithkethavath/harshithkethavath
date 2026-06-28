@@ -16,4 +16,6 @@ Code, experiments and models -> [`uga-gaim/2026_CVPRW_CloudPrompts`](https://git
 
 🌦️ [WeatherMind](https://github.com/harshithkethavath/WeatherMind) - Modular VLM framework for weather analysis on sky imagery across 4 backends (Qwen, SmolVLM2, Moondream2, Gemma3) with context-aware prompting. A spatiotemporal ETL pipeline (Pandas + OCR) aligns image timestamps with ASOS station logs to generate 15,000+ ground-truth labels, alongside a zero-shot weather-feature detector on open-vocabulary object detection.
 
+🌊 [FloodPrint](https://github.com/harshithkethavath/FloodPrint) - CONUS-scale spatiotemporal verification of NWS Flash Flood Warnings for the 2024 warm season. A spatial-index + buffer-intersect join matches ~3,700 warning polygons against ~4,730 Flash Flood storm reports for a 45.2% national verification rate. Surfaced a sharp geographic gradient, 0-13% in the desert Southwest vs. 77-85% in the Northeast, and traced it to spotter-density bias rather than forecast skill.
+
 📨 Reach me at: harshith@kethavath.com
